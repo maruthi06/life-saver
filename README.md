@@ -1,4 +1,4 @@
-# PHP Starter Overview
+# About know yourself
 
 The PHP Starter demonstrates a simple, reusable PHP web application.
 
@@ -8,7 +8,9 @@ The PHP Starter demonstrates a simple, reusable PHP web application.
 2. Add the extracted directory to your PATH environment variable
 3. Download and extract the starter code from the Bluemix UI
 4. cd into the app directory
-5. Run `php -S localhost:8000` to start the app using the built-in development web server
-6. Access the running app in a browser at http://localhost:8000
+5. Run 'life-saver.mybluemix.net' to start the app using the built-in development web server
+6. Access the running app in a browser at http://localhost/life-saver
 
-[PHP]: http://php.net/downloads.php
+# Information
+1.Presentation (file name) life-saver.pptx
+2.Video link- https://youtu.be/RDQtd2FYkZ4
